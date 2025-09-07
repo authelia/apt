@@ -1,0 +1,1024 @@
+Package: authelia
+Architecture: amd64
+Version: 4.30.0-1
+Source: https://github.com/authelia/authelia
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.30.0_amd64.deb
+Size: 9814588
+MD5sum: daaf985dd5a001e633934491d91249f7
+SHA1: b09404a450d4ccd99c75cf18190cd6e1d18376c6
+SHA256: ee8f057724c7e08e7b28e88860e067b4e84cc08e877e14927ce18f76c4e4a24f
+SHA512: 9047696f98534a48c1f3330d45432e521d6bfd8aa3be93a0cda3c1b26059503dee05002ab035a81273e76f811a66ce427763bd6f143859c2f9850a2d7fb3ec61
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+
+Package: authelia
+Architecture: amd64
+Version: 4.30.1-1
+Source: https://github.com/authelia/authelia
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.30.1_amd64.deb
+Size: 9815308
+MD5sum: 274d37c8d80168108353650300a2082f
+SHA1: 595bffd25006e280efb768ac18108a2541676013
+SHA256: 050bb85c67e63c208145b60609760d1d96b3daed5b33f12f2f743758e739cbab
+SHA512: 875e3cdb33a96fb442545c26b8ee855d2c9be5935cb249f6390c9dcef403bda5f2104c60ca4fad4040d4c2d12cff0050c6388892ed11e5c32e7534c07cdba0bc
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+
+Package: authelia
+Architecture: amd64
+Version: 4.30.2-1
+Source: https://github.com/authelia/authelia
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.30.2_amd64.deb
+Size: 9815988
+MD5sum: f5a54db95bd5c3c658a86d38791a3dd8
+SHA1: 70d35f9266427ed9e840653ce8e3c6a18a17f113
+SHA256: d36e84bea4eb5658d7a4e97165eb1745e25817d5d506b1932f926ef6b41cd625
+SHA512: 20deb2c76b00152ae1ce4e26d886851b84830a8c874a3673675e81bd2c2204fcf2009103171b08402af68b0b2ef1885dd9bab40824d1aef314eb5e8af70aa20c
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+
+Package: authelia
+Architecture: amd64
+Version: 4.30.3-1
+Source: https://github.com/authelia/authelia
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.30.3_amd64.deb
+Size: 9800756
+MD5sum: d1dbd1ed9db256119bce5c7028b1a92c
+SHA1: fa8e78a5ab8b6310dbbb2b98d8e17e896f2a10e7
+SHA256: 4a9ef620dc43a90f184651534074c4452b8b97b6e2d447ad24a6f3e54e4d1d5a
+SHA512: 900a8338557fa98e2d6de8f8d2593b9e2d0fea3002fea903c8406399d8a1518a5a363bb946cc34e238df99e1b45d2e6074b1ed5a1f8c9d50a2bb18a332961cd2
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+
+Package: authelia
+Architecture: amd64
+Version: 4.30.4-1
+Source: https://github.com/authelia/authelia
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.30.4_amd64.deb
+Size: 9799696
+MD5sum: 4a6b2807b5ee301b6de72f4ba33656e6
+SHA1: c443c610cbbd46764cd0b597ec387c937d8ea086
+SHA256: dedde8a6d5fa1044d2fe3d9fe38e9c31589fa91df80a14472fc198ab893472e0
+SHA512: 6e150aee40a7f3707a96688268bee8835664447aa217d4ad5634f4935607a50e84f1386656a392a3042594117e613aa60bb3e48395c4fdc9d1529eea53ee01a9
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+
+Package: authelia
+Architecture: amd64
+Version: 4.30.5-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.30.5_amd64.deb
+Size: 15200196
+MD5sum: d950fcf21fe0838578db62e58837dd3d
+SHA1: 3b080a513f785fd3c136558c9c8f84a5624fa6e0
+SHA256: 59dfac69748df7de54daf2e2dee25a0d5253712f1abf48b71e99efadb1563f5e
+SHA512: d62069c1b3006f569a698b005f633cb711e59c43c48c4bdff628fa93eaa0140af7c8d7d542e10978153d5ecbc259c9645c9498064fafeb373cc8caffd525a34a
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.31.0-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.31.0_amd64.deb
+Size: 15200050
+MD5sum: a6aa1b2f725e1db5edc84c21b13eb8a1
+SHA1: 41df52af30ba48e79a4d999b08eed6bd08fa5730
+SHA256: 24ba7b58ced93024920b642dee55dadd07776db17723d94ca2f8f57412c7f5d8
+SHA512: ada57148da079f715e12f3dd61a6a434f13a54e6ad5e46891dc9986e3b27f5e2b93c25f70c45d645e988c944d4bffe7fb3225c5e13d59cfabb1ad2f9121e19bb
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.32.0-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.32.0_amd64.deb
+Size: 14480486
+MD5sum: 27fc71a39b99d3ed317c9c3711a0dc93
+SHA1: d2108a60543b616fe908f7a8781240d51bc80ae6
+SHA256: 0739862801ab449f68a5fed3861326cf9cfc5d7c842ced49c6f320a990559886
+SHA512: 448e81949b69ba20b6c3c3a4f784dd42a18527f087365151b13fd6484dbff39291cf3e18bfe33efef202c64e03d1ecb99ad46f558c3e08566835033cfe934da1
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.32.1-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.32.1_amd64.deb
+Size: 14443718
+MD5sum: 3c2c08a59e47ae98fa94444947028169
+SHA1: 41d4ce683f14da15d960a6b84e891d259930d8ed
+SHA256: c3c06c7e1672d7b675afe894341483c10c0a6e6472385455e29c3b2b07ba4eb1
+SHA512: a9bcc638d8413c04265fe79a06379efb7dcb208aaed339fbee25347a8d40579ca2307eab7a1a317dce1729e2b5d23d66fa47b2cfda848c7895f1136d4839773b
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.32.2-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.32.2_amd64.deb
+Size: 14445330
+MD5sum: a5e3b3cf46b97b655d6b81a610df495b
+SHA1: 3c095cd460874cdb4c55a263c590728ac281cb2c
+SHA256: c94d4e7853aebe010810cf5e514dce32ed00a97173747b638133218d68e5d4e9
+SHA512: ed778507b2ae940969f96c047e82a6bcac17d2c996a950c5bd0bc5c9ec120dd57330325c3e1050386683d782898132936b5a08a0a6893af29217dd81b24e25b0
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.33.0-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.33.0_amd64.deb
+Size: 14359694
+MD5sum: d9583d091695ae6bc06404a5ca53d397
+SHA1: 6610fe7fee72fc0b513d476344856b63abcc3eea
+SHA256: 9fc8fa8063c2a7fc0ea86ee929df539fc5460dcbbe7235a2f062dbe02531c5df
+SHA512: 5499c3843e48fcf07563427fce757d669572920fd7c3ed378adc7b8c971a04c4cc97e83adc9253b2b91cfd1cd5f705a7816bde58b2ff2d3bde062816c6f067d7
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.33.1-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.33.1_amd64.deb
+Size: 14362536
+MD5sum: 17265d9b8ca67f217aeadaed24145d1f
+SHA1: 37be3a41928818d79be1d3ce1d1d3925053c9530
+SHA256: 283af0618c56e02243e15ed5b394abdad4f394e9a6deb0610afee503b7e2dc14
+SHA512: 69c426cca7d01b153a0548933f3ebed686665e6082a8360e007ff3a6187d89977b85c0f7832ed8331f03c8ba23e411c2f24c1e92711e2abedecc76500019563d
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.33.2-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Installed-Size: 46424
+Filename: pool/main/dists/stable/authelia_v4.33.2_amd64.deb
+Size: 14454000
+MD5sum: 1ae97ebb002fd978184ad755d2abac85
+SHA1: 706e3d917d3fbb150f88539caeb63113b9668cc1
+SHA256: 3b5de29efc4f0e711635ef68af8b7d37a0c414e308c9d9c308c2ee4fc409a977
+SHA512: e8d7c5614bacdb183b15f03f47efae76a3adb3a81110132909c966c7ff4d5283718225cbd2dc09f56ed033b2d4319afa515d3a4f516d20d92f285eca182e78e9
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.34.0-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Installed-Size: 47529
+Filename: pool/main/dists/stable/authelia_v4.34.0_amd64.deb
+Size: 14818384
+MD5sum: 5cdf044808934e6b494708250977db3f
+SHA1: 60a0ab4c3d08fe6529d33a53c01180fa0d503330
+SHA256: 7dc02ac292f698195a72c3b54793758b1e008dc19c122a98ca181c275db38ae0
+SHA512: dd12b4b7bff6ba049ceb1f8791de5e0cf4ad3682e6d4cb486341c4002c3a8e73d80815a11e934f4a1c0983f0cb829ce282ff25f041053f09163c30f57e9b2d96
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.34.1-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Installed-Size: 47529
+Filename: pool/main/dists/stable/authelia_v4.34.1_amd64.deb
+Size: 14819942
+MD5sum: 7fa21d2d1d08b78cc8e5a43e7de9f8e6
+SHA1: 1d4ec5246d114e567d38e8c85a6cc044a3d99877
+SHA256: 597968db2a9080228715d67a6a4d22881b85e7cb381c5b61867f3cac37a6526a
+SHA512: ea496410dc3d052635b5e3050a117fdeb2652d8b3f7aec806bbbfeeedb3ddc43c6c54f467079a0794af2b347e20204a8c50f6e14e5ca951b5e356b48327ea92c
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.34.2-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Installed-Size: 47533
+Filename: pool/main/dists/stable/authelia_v4.34.2_amd64.deb
+Size: 14818954
+MD5sum: d12e5ab18c18b5f96d6fbf579d3aee17
+SHA1: b478b749bbac5e6bf46c5374ccfa5ea859f274e2
+SHA256: 10de8a858a00dc39ef94a6733ed18563977015c1020174a63ec8bd2c3edaee4f
+SHA512: 706f75b8e9334caa4af071560d227463827dd3672b1e395f9bd318ddbd00c172cb3c80b7ec2ecf14f7fd46b29a1cae7f586f221bbc06e5e44691417fd1948265
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.34.3-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Installed-Size: 47533
+Filename: pool/main/dists/stable/authelia_v4.34.3_amd64.deb
+Size: 14818924
+MD5sum: 4f4f9322852cc5cd65ddcb3613bed994
+SHA1: 14081ba41c14e83b0ce46255b0f8dd00ac62e989
+SHA256: 11d1b968e97e9cee00da91c65032ac07ef761bdd495e0e8ea4a155c06591a5ae
+SHA512: 6e4505944f60fa8ac7b9a614168bba213415570ffab8392e6cfecd64dec683993e98b545efe4c02b902adeef59b21f3c419e82c3ca564887b9ec02053669aa8e
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.34.4-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Installed-Size: 47541
+Filename: pool/main/dists/stable/authelia_v4.34.4_amd64.deb
+Size: 14822980
+MD5sum: bcb7b906117977321964ed2d53cbe310
+SHA1: 9d9ab5f302a81d7efbda5d578035ba72ef32db6a
+SHA256: 1fb9c4ae17c60a53bfcb3b9eb5a51eb417881ad7aa9d909c577ccea51284f3a3
+SHA512: 6cab96a8606731a0dbc77af1c3900e2d45a8b86d765edf523efd8bf818ca9593610cbaeb7eadf89ff163784389b748cd506f576b390b905e0a89ff0d7687e32c
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.34.5-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Installed-Size: 46959
+Filename: pool/main/dists/stable/authelia_v4.34.5_amd64.deb
+Size: 14667990
+MD5sum: fdbb277d1d79dbc11afe63f82ea61911
+SHA1: 9f4c85451a9c29a1da24bf9672d26ddd842f3752
+SHA256: e014ca4229ea7b42bb442c32091ab86163035f2efa94450dbef1ae464967edd7
+SHA512: ea50e91f10790d95addd9e630b9ee17a51247c21628bcd9039a0e64d6d7f0326d50ca4a2af171c73e9d18b23e98f484bc69988f1c677a1280e7f008cbf3534d2
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.34.6-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Installed-Size: 47015
+Filename: pool/main/dists/stable/authelia_v4.34.6_amd64.deb
+Size: 14677936
+MD5sum: 1bc66232871145fc1df49da0991a2d65
+SHA1: faa9bb736443232be98ed6efeb1ab39db2a79a46
+SHA256: c18f5236724cc0729dd34275bc1ba62a268167356857044534ec615c4a01ec7c
+SHA512: 9b68e9bb9402d816596d19f11aa3a8382d88482d993fa6e68a9aa41bc5a94d73a044431ded37490aa974d90d774725947e56a6171e54446a6c7cb3c8b02f53cb
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.35.0-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Installed-Size: 44396
+Filename: pool/main/dists/stable/authelia_v4.35.0_amd64.deb
+Size: 14359870
+MD5sum: 56ae1be50b1b4fac2a5d16a8a24bb6e8
+SHA1: 0ff2c217398538d34409f88343e69d2a26144cfb
+SHA256: 96a6c982c999885288e72ddc2cede2d5446aa857d876c86aeeef3813b5629fbc
+SHA512: 2d21fd5fbda01c94e9b42a73af33ea57b84e0c656b6e91ee6c28f7ee0c7fd8b4df7ed697352c1bea6ac9170b2700454361a5969b234711e22bc4276a1d9eeebc
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.35.1-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.35.1_amd64.deb
+Size: 45558270
+MD5sum: 7a80310ab70e55f8e187e335e7cab353
+SHA1: f0adb81a50cd2534513c29829eecfb5b5432b4c9
+SHA256: 2b6572d7109b8f35557cc1e8d63d13290cb3b016de1723cde667e43f1d106ed6
+SHA512: 3ae6b22f538adae251136ac4c6e25b67a2aabb0b717cc690fb108d13b7c15ace7982cc56ada9f2d307a39250a857da4b49c3bb23db3d3550eb505feaf5423e8a
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.35.2-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.35.2_amd64.deb
+Size: 45578750
+MD5sum: 0607a1d62e868ed4b7bf0f2dbac3d02e
+SHA1: 28bd2c15fa554297673ac9c302b3b6959d760595
+SHA256: 3223f221d7e92c93313407b3410cde9cd268c946a38ac0981bf575d1bfc1006c
+SHA512: 569bd047513c072cd5fcf5fdc5f4b518c02749e6dbf8ee18a69d4ceebfee57c30ad557c28872c6856f4c8ac85f65a1ca5a281cc89638d3e9fbafd1c44341d998
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.35.3-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.35.3_amd64.deb
+Size: 45588990
+MD5sum: 28fbf445f43d5209886f8c28ac6099bd
+SHA1: 8bb19d7109698c96e7ec8f217ee750b14d72b026
+SHA256: 2e69c10f6e899b889a7fc48f42f17772dca4383b0e8372d41cd276a484f85ce8
+SHA512: 8a030265252600efc7ac98ca3d55da97d036f76bd247a5ad816568fbe0d7ff932b5d9606b7350a87878f94aa51f65a053b8ec09937861c048d55154b577ac98d
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.35.4-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.35.4_amd64.deb
+Size: 14408030
+MD5sum: 665d40a4690ac9b757e7f87076bac7a7
+SHA1: ed157f208808a798c499ed119323400e00fc5911
+SHA256: b9eecb39f0b14aaba3eccce6ee36f77362eecb3786eb7295975479afdc9eda09
+SHA512: c6ce26d79779a9f565c187a403d29b5438a2497abc7e7e3b5bcc17f3716858a68ffa21786c329197389683bddf2fb758fb94100885c1446070222d939c197fd8
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.35.5-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.35.5_amd64.deb
+Size: 14408688
+MD5sum: 7dd57410bc5b4cabcafc9e4d39ec9f43
+SHA1: 450d2ebdd1f156ea1224e3a90f99488a48c0d96b
+SHA256: 9296d9de3c206995add40f8f9a8c6947becfc9baf941ca46e8c4106cfad22ef7
+SHA512: 05ca880b2071d1db1a979f88f8bb17f4af57bd5bfa6a99aacb253e4cd037d8c729427627fa9a81f3c9058406e25f2b67b2eccb08667882fefd818dfe8d96229b
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.35.6-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.35.6_amd64.deb
+Size: 14410966
+MD5sum: 00ff84facf25be9af849f6ec5cf56484
+SHA1: 292fb8e333a23613957dcb8a073c2fc0d0d32177
+SHA256: d0bd6dd6d90668d5ffc32e144e22861e963b3d34fdc780f97f8071d7596876e3
+SHA512: 25e45803c48d541d1ea3a4dfbcadaa6bfddd6820ab57e39dfe2ecc4aa909f6d4e8ce4233ef23b1361ab005b33dbe90cc801720b7905ca300a47e8a8ba94c0dad
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.0-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.0_amd64.deb
+Size: 14608494
+MD5sum: b647d3f69fb904c864a58a55d07613d3
+SHA1: 3bf4c3f23e085e35dee8937c69b00dba23b6f3e0
+SHA256: aafb554bb879fe91122af8a3968eca27783668e067e69d3148f9b544bf38473c
+SHA512: 833b019ec4c7a4a8b608cc208c6371e0a47bd236a8adc6cd4e7c0669e9bbf1bad5e192af2f5a65391c0079fe80d9a0b01d802d38287c3d4686412e7cf6db344d
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.1-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.1_amd64.deb
+Size: 14607638
+MD5sum: 4b315e6444f17a3c956fbeecb1f30965
+SHA1: f18cb85e8c7ec503cc2a03e259c3463bc27ce0fc
+SHA256: 6bd8fa8894528ce6a71acdb33448dffb75a2df76dd55d7861e1550e4182741dc
+SHA512: 88bf8fdcda3069ea984ca2f20fa9ac1041013a0ad35199e396c36eb3418c36b4f0b743fe0eb84614b06391cdfb2776e9ee5fdeaafd2bbac8fb470f0b604b8526
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.2-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.2_amd64.deb
+Size: 14602842
+MD5sum: a475b5d7cf22b4e0d8bc14b1ef17f3f5
+SHA1: 133c2ae63c585b6fa7a884cfae9211e5f9a03cb0
+SHA256: 31f7ffbb87e9ff44562b0c64eb088631b8a5d61ccd59f98aa664bc6f1de6b963
+SHA512: 373b7b24194f57ea18cba5fb703b71ebc6120fe4023b0d0324fa2485427181aa19ab2d6b4cc59f7aad2cfd4d05b9a905e5e40b6324c45847aa01eda81e8d6df6
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.3-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.3_amd64.deb
+Size: 14622382
+MD5sum: 8e6ff814f1971b887388b858fc87d75b
+SHA1: 81254da39f6dd4fe5f9a6fcf8c41871152165762
+SHA256: 22d203f99ecbb98a9ce3210cec99cf8aabe3bd06221d7e7178845590b45d657a
+SHA512: d950aa95adbadb24f403ab1c0b2b2c962e46f4f5f9357b22be57d1a47c19832adb3d678efbc1526cf7cffb3cb5db5bb08b4a749647b7ff82eaf964595c57fed9
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.4-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.4_amd64.deb
+Size: 14657438
+MD5sum: 43ae41c26271496ecbebec84bf90f636
+SHA1: 0fd085d884bb33c1b4d7c5fbb7dd4c43d2f7b70b
+SHA256: db6af988239c327c5e4184ed8b470ec48dd3751efe3a46ca355a4bef6d8bdebe
+SHA512: 7053cb888a8aa7986a85e43ae504538a07e54f4392c4cdb03ad7b09757230d7f7705e9de79c34e08956323ec1d3d2ce67f2263d106ed7deaac3fb9f19f498642
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.5-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.5_amd64.deb
+Size: 14667288
+MD5sum: 7780811b4e73a5d2fd998974d97be926
+SHA1: c8a76d307e5bc82b43689cb52b87f8b3ebb98cd4
+SHA256: 0045410c43f6b16cf93e37186f424c5891359a8cecb026e899be9db1f0bc21df
+SHA512: 009376b9dd338ed1190e81caf0db8aafbd4d9510725c96ba88b600154ab2c355a4a1356adcded5d5fcec357d50481f935060a1b6e179b558d5963d85b8f91cc4
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.6-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.6_amd64.deb
+Size: 14668610
+MD5sum: 90eb6c52b0cffa1af96c6c01df6f0ec3
+SHA1: 7f09100fe7e58f1d9540dc81101f14230775a6d9
+SHA256: 6bea7f2c856dbe4a202c6b73d3f8033d29948a608a41f6efa182e0867db518b1
+SHA512: 55b6792709addf193d91b54ee4cafb9511165a78ac6b140193761b2c8d9525f03448432abb5bc9b0c82f2b32e12eba67efd45f656a78945e78e49a10ae08389e
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.7-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.7_amd64.deb
+Size: 14664188
+MD5sum: 9b4a6ed3bf7bbb91bff9e882d2d25232
+SHA1: a101a7e359e89f55babfb30f635243e576598006
+SHA256: dee9dc076a4e2cb23b3324c737e1c5bb5779ef47b520f8f602b89a0e24a09ca6
+SHA512: 6a8b8f7d9109e2d86c9a2d022ebc3bed65a10a5cbe8ff98af82bd7b0742474f2112b9ad4583193146bc7c09dc3e5a556f5402754b051cf0963c116b66626cfe3
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.8-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.8_amd64.deb
+Size: 14390970
+MD5sum: a709057f6ef62ee767b8a12702bb7111
+SHA1: 7403e3480632ca96f7d11f3cfc7c2991694b4789
+SHA256: e38966a4118c7bdcd39d0c7fe35286c6b74c6e3ce31736035c30608c5f5a86be
+SHA512: f683acdc59516ce145ef2efe93ab7e67cf113b9afd057cb59cc6ed44917791f3b32059bfe6e9fbc5a139faa234d9556c9f296bdfe1e5c73dc2cd6132ea7fd7e3
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.36.9-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.36.9_amd64.deb
+Size: 14389798
+MD5sum: 1ab698e1ead7ac21b689a0655e64c9f3
+SHA1: 991795372863f09e9e66957d2e745c766f879e77
+SHA256: eced8029c86c390c14f3c672691f78dbf7201a3d74a410e5771bcbc9c12ee72f
+SHA512: d9354302d75c3bf9ecc03e7cb902e0d9d646c37c01cce776276e0ff73ae8d39325e1e6949bf5fa4c81394c2f7ea5c04b7073e4ccec26c8b54d0abc3c7d965537
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.37.0-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.37.0_amd64.deb
+Size: 14715136
+MD5sum: e00db3feb50aaa72944254985fb4234c
+SHA1: dafbfee8708c5b326f12b304cb5a2a9624411613
+SHA256: 4b86f8c039a87b59d31b1dbb33304f62d74b40ec09a39ec679085f0f77bdc91e
+SHA512: 45a55fae9e4aed6a8d44d164f37de870eed1ac5a52b99a299471c4e87f9c551bb44f4f13ad06f103e1c5e6096dbebf2abf30c545154236d3a8bcac18a6a7ea3a
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.37.1-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.37.1_amd64.deb
+Size: 14713754
+MD5sum: 6a5ccbdd1aa49e2501d5449d59f00fdc
+SHA1: cc4988b9777c7e8444dc00e868aa3047ae70a5a6
+SHA256: d2616e98b99e88c04b5147e18883d6ce9889ae2a1d0026970182d6d1153e736e
+SHA512: d8c540f4d93d380d94516e3a52bec86f90ee7ab0e436ff1fd7e106a8d0388fe76a6fca40c8f5b551ac10ca00decbe59a2c86985e73e9665a0c932692fe962f1f
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.37.2-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.37.2_amd64.deb
+Size: 14720738
+MD5sum: 8804ab870015571f216f9f524645adf8
+SHA1: 4965385ebcc632c457966e69ca26a515c5799ec6
+SHA256: bc81d7f8273080daba9b5769c03c03cbeb35ce2025df383f9a762f5e7c76571a
+SHA512: 175b84f2f380a533cd342e22d12521b7506cb366905eda4d4da8bcbb559f1ee54a63d9ec10f90358c3c12fbb0e9f49b1071db466ffb29682156235b15ab3a374
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.37.3-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.37.3_amd64.deb
+Size: 14943092
+MD5sum: 42a6ffe6762adf41cc9b532d0d9d71ea
+SHA1: 0a21227ac263934393eca224feb73d0a5433dce0
+SHA256: 301f7c6454ccbc0ae9946866235c4c371254ff6b0a54d856bd46f6c02a36736b
+SHA512: 81c5c0132d873e74b4fd911aa45f1bd958f6119099e7ee37ed914927619cc0fe38d373777aeae924ff7b4ca17748994dc20fbb49bdbee4c414cbe4ae7e300ab5
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.37.4-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.37.4_amd64.deb
+Size: 14957096
+MD5sum: 1c7eca9f2db014283281f70e7509da2d
+SHA1: 8e44676d7c3edab09d46c5b22f099e9c12b8a29d
+SHA256: d7790b402f7dc5f975fc93c2863708dd6d1cd5f61afed8d7c37dd48826a62327
+SHA512: 21e79ce51664552886cd5847b2f72d2a00ed0b5d4ee5d488b2b0a69747a46f5c295492aeb0cb0f06d3a72bbc4963a6a7730062de2b43499e33164d1d4d72e3ee
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.37.5-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.37.5_amd64.deb
+Size: 14958570
+MD5sum: 0110a22dcd6cd04bb983f4c88db81ad7
+SHA1: 23aedc924f908a0d0ff63a152c4e3556d7fea9a5
+SHA256: bad9b67b7d7ee2d0fcc1216b5dd264a5c102fddf4e3bd6e0a2bcb55b117a63f1
+SHA512: 6082a15c01f0f91664b636c914f3ffa745f8f7f6311eab1188b84356a49739d580e34b3bb643d5651bef0379eb98f13998923649d3cb0e1c86edd14f422881a4
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.0-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.0_amd64.deb
+Size: 16610434
+MD5sum: e069d3fa1f7d6bc48ee22b02f0072b58
+SHA1: dce1b18da40383fb71ab688142e8ceb777d91849
+SHA256: 375ad6ce4a02d951580765c7fa14c9088805d4cf29780ebc2eead1f11e458004
+SHA512: 668bdd9e5cb3e3ae7fbdbd1827d35a0db0465734f356b392082c19dd248c172cc319f3be77c8cfdc771d1636ab36ae9ef93390738d0744ba69f36050c5aeddf8
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.10-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.10_amd64.deb
+Size: 16290056
+MD5sum: ab3c9a5c6a382c9e5e7e070a88253880
+SHA1: e4b8ae016593a440df46537eebfba760a7ce2da3
+SHA256: 4761d9866002b9d2e36515adaffdee7e065d9a8d44d97a95e617277742b2b5f5
+SHA512: 189f11da39b7a5b993ce3ce6985376560ee986713bf46413484a5908e43afe6ef6fbd45fafddccafe204c2a1ce3566ef1f41420690e9fcbc94a852f438295033
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.11-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.11_amd64.deb
+Size: 16588914
+MD5sum: 8982690eec4dd615c8f6a8e33f23a0bc
+SHA1: 5a93c58fd2c8ccfc356c40d426c7b07605c70e73
+SHA256: 928554e9c17e4face6d4f2ea428a6952ed21a607368a73d82a2a36d334586b53
+SHA512: 50b1d1372f9c00fb994720bcfa1bbc5153deec1cba1ef1cb0ce752696b1e7cf8db95d61086f67582025e5783b8b3b1c82eb7651c2eabedee23136eaf7bb48783
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.12-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.12_amd64.deb
+Size: 16588408
+MD5sum: 7a914b9523888554b2256c3f93bf7e6d
+SHA1: 44914b679b61d752621887e29472170cf3694ade
+SHA256: 22aabbe49d265a4d173bced44a03437fd5ee5be086857ee98706f46c7497a3be
+SHA512: a80729c31b7e54a8a5b2f8c94c278daa07d47c46b7cb435744b27397be1a792af654b3d11f193f013b4201d4e14250aa382e9010f70595c996b2a0c093c55808
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.13-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.13_amd64.deb
+Size: 16590048
+MD5sum: bf48a434312b6486ffaa8013a41e592c
+SHA1: fa13acd8ef2e5327fe6c08fdcac206cbac1b69cd
+SHA256: 3fec41b85e70ec1fc686af612586d76d533f91cbf548c81312fe71fef2d6da09
+SHA512: 52af73139e265afcf13d4ff9b205ba59c6c75e0db6543f8ba434daec37d8a06991c8573af995cbff50345dca6004e02ddaf21c1ff733b492873c716a69e03e2e
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.14-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.14_amd64.deb
+Size: 16589654
+MD5sum: 223ab53006306f7492b0b102f80504b7
+SHA1: 5dca0fb1f2a946366169a5d0120feefc42cfee79
+SHA256: 5f8d00abb7a402691c547ea7f8c60b993273284447b995a92ffea63122f6d7c0
+SHA512: a0f70ff27ec854bec613b8b05ff1538617d0c73e1bd96cb7fdb29644d74a08978f9518a8f1f87c216a4e37430e66f7721bfc66f9e53a4635b077f70f0cdca0a8
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.15-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.15_amd64.deb
+Size: 16592122
+MD5sum: c5935b2de61b8b8662d26a39850b2d24
+SHA1: 8d0412c004b76c6e766da9ffb6ffceea40545880
+SHA256: b67387f640c8ca1ab78134bc9f76078540c3baa99d29d72c6b9ccbadb09b583b
+SHA512: 2f1be56f84d755f890d59eb3ea8640a974ee39ebe3eefc62f5722f5c001c18cc57a79ea5794e43b02d6babc5bd202fe3a4f789745dc892bf7ef20f831bab9eab
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.16-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.16_amd64.deb
+Size: 14043856
+MD5sum: ff6fd4e5a5b1b89a8b0000d81d17a6c9
+SHA1: 736919438ffe2ad34a4725eac342574656f4bafb
+SHA256: 3e8f7095b06cd8d5eb17793234910f5423c2b7d209d54fd516f340be3112f5ec
+SHA512: 9f2794aeb44d592d88104d716981cae73fb8e71848b76af3dc332b8f71294b3295919794b0cf83c9e05447d25e70250bcecc71a50dcbb059eb1190bca00bbbca
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.17-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.17_amd64.deb
+Size: 14145382
+MD5sum: 5b31d6e895ddd22dd14638f8312e1475
+SHA1: a18ec83d1d0410267207095bf8034fa823e75ca0
+SHA256: bc9c5b91bf2776aaeba358cfa80baf338dfa0f18ff4f72a0fb97a05566555b68
+SHA512: 4110672007ce375c03163d2dbf628cad63503b76069f98d6d2c650d1e873d341ee996a8b4904d30ea21f18ddc16979fcbafa132b0af94d555e468fcdf2fd2b47
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.18-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.18_amd64.deb
+Size: 14429498
+MD5sum: 0368ec141190e3baec0f3fd4fa8956cb
+SHA1: 64861da0d2aab2dd0479ec574e9a31bcb81757c8
+SHA256: 44cf4c30afa2ab3a6c59e1026348283419ad4567c862332a42e1a13ffe24597b
+SHA512: 5d06a83b2d135daf8dec93765e04d802d8500dcfd6689a5b549bd59a8ec6ce1bef46ee7503e97b626bd8e90b65e7c7b82b206d74f0174950ea9932437db6aeaa
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.19-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.19_amd64.deb
+Size: 14446250
+MD5sum: a4bb1a40e519aea568bd99f421523b23
+SHA1: 1c6dd9e9fdf948a1ca7c65d5aa23d06d431a5a09
+SHA256: 23206d6dd85d1b1c01e7932f31918b84939f0c6c5f35fceefed7dcb9be1f70da
+SHA512: 8e0c83e1bef9918af2401068100b29df835aa07b1f936d53182fe86eabdf10c89d28cfe35290b0d904ebd4da5ade0a1b9ef2798466d12283efce451506d70c0f
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.1-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.1_amd64.deb
+Size: 16609314
+MD5sum: 3704525e8c2ba5e5953da0ed5f2853f3
+SHA1: ae4cda15e4139f57bf230f8de52d2ba9e2503426
+SHA256: 9edd5594070f05f711f73f4f32fac9175042c4b39fafc737397c77bd8aee6ebe
+SHA512: fc06b3ae5daf03889ba8a6b2a60150ea193c324f39bb0992015cb9208f96b47667868e12f920cd30989336be6dafc813ce0c2e2be15f53de16f800c72b827d59
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.2-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.2_amd64.deb
+Size: 16612336
+MD5sum: c108d83a692b7bc19a8d83afb2b7eb9e
+SHA1: cbca01acb5abba0a44366cd18306a7ea98a4be69
+SHA256: 2a71a1b092e3074430c12cccc1a6595dcce0ac6b49ce849652ebdda9437b7ede
+SHA512: 4c20420aa2abb302f852e1537515a22b51d1dc73e31418d9e6afb25a218c2427974e3af66090c0056a64b47c69a998a2924cbe3c64aaa02f471bf0a5c36ab435
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.3-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.3_amd64.deb
+Size: 16620538
+MD5sum: 9712c72c96b0836d37fa956c2495a81e
+SHA1: b2038c7c6852ff1001ff0ced6069eb81c614768e
+SHA256: a9b39811254e0bd12a77310619783db5ac130d332f6133b28debf9b40c3aa155
+SHA512: ab93576025dba1ecab87b5269778f0a043afe73d1e613fc4e805841681bd359c6a6786f1949d35e6ab982c08f2f674031f7707802fd98a831175f080c46ae1f5
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.4-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.4_amd64.deb
+Size: 16614806
+MD5sum: 6b67615b402b4c1a315a1241331b8e7d
+SHA1: 97e5d8c1c9c5e29cad554ceb65c1b6e9cb0657fd
+SHA256: 4757904752b8f2ab876576080ed9c6838bfb4e06518bd34b235dde7770461e5b
+SHA512: 36fb5e87b44af00fb495d7d6a8c21ab326847558728b172cadb40ba83dd088578c11b9a5da4cb3c703718939a37154cc472dfb03dfa5e2f1b072c4fb0fad8e80
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.5-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.5_amd64.deb
+Size: 16651060
+MD5sum: 74ae83a204cd759e1be145aa1cc41b44
+SHA1: 2f80ffa74cbea7c3bd746f33eca443960faa2c00
+SHA256: 18419dd00a1be738e5bb02b18eacafa288b54b97933df1309c4c354caaedb50a
+SHA512: b2872cdb4d171493c5faf78e9b56e1849c164ce78b7e555e6220e15583e93061117d6351a13fa0e210ff65d17be08e7633fd6183aaf92bcde6f4cf0635a87e34
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.6-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.6_amd64.deb
+Size: 16651114
+MD5sum: 9f3ba811dab7bc4094d01a62614018c7
+SHA1: 102f78a714e1c6931119586adac90e33315aa82e
+SHA256: e9723309751ebd97b97ea66bb3e81affa5ee235e8bea2017319bf1c3e617a3a4
+SHA512: dfc76e995179d9777e9261411f387b5b39ac9850c2f6ba3ab83db302bd64f981598c32a2e6b3486cea48f879e226e2da2ec5aa0a0339508194e929660e2cd33d
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.7-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.7_amd64.deb
+Size: 16680548
+MD5sum: 76e3a4194bc7aa76c06ce855ce50b383
+SHA1: 60d543d2f4ba740fb03b14bb264e5d53411eb3c4
+SHA256: 71f7c4a4ece51e3ae5adeae73775b6e49686d54f5456f93f1fe4637b1d8f64ca
+SHA512: 3465f96ef9660f9aa7ce21019e447686366a4c4f174a7f9bb4f2a1203a5e7f1d22f660842e014f7752698a2ae22d5b57ca576d0caedd8c5bb8895fd2229e9ffd
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.8-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.8_amd64.deb
+Size: 15983454
+MD5sum: a48129ec9c40de27a7a80b3e5a6699be
+SHA1: b3c01003d11d22747fecfdaa40828e34c92f34d9
+SHA256: 03ea343ce57bf29cf5c42388ec5b1cebb96d0f9f83b9712d8d32ce4e13c003c9
+SHA512: d2781f602940956742279aba9f636cf6405a0a5ab6be40c0d1dfee6bfbf7da56ae5d1e52715fa8435c02a013b8b1c98365d9ac744d0e38da91fbb3fdb0f0be52
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.38.9-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.38.9_amd64.deb
+Size: 16378818
+MD5sum: 7d608f9bdd406575e09eadd2b82d297b
+SHA1: 4065f73975da1171ada1908e1096a8ef096eb0c3
+SHA256: db8287b84c10fdd9195a4cff0c085c5e4f3ac19671773201e55cc20edafd3430
+SHA512: 326c451c4f38284ebb363ec91e07d49c3d4d6a8bc2bf2ce1ff8ff55ba4054d05f8514d5255e717a70d79e3c99ecc23771ce7cf516388243d4920d3fac08aa29d
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.39.0-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.39.0_amd64.deb
+Size: 17923808
+MD5sum: 3febfec849f64de0c2c579155116a286
+SHA1: 3d97863e72da760e21340c2e7334f30c112f4887
+SHA256: b6aaab2ae97e9cb6a543e1573f997bcf72872867f285827e0ceee416804ef029
+SHA512: c0b64e027e58394f3f52e996abdea15959cd6b2966269959822863b397f4eebacb2779477654bda76db8c527e1d3a29b43e53d0c00c2e83f98ed5ea2afd4cf86
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.39.1-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.39.1_amd64.deb
+Size: 17908702
+MD5sum: b2d4d5f9f0323a5746d4c99dbc6bdb26
+SHA1: fea89c7fa2e37c8141543b4c3cd8445f1581ea96
+SHA256: 84733929476eda6f0202664ea9318746e8b7976f665b5ac2ca2455807114efc9
+SHA512: 12c608d83923470ebda3ceb753755546c70e174ccb73049a89e1dc48f287f993b77be43f26b07cb204fda0bac81d5c558a6a611ebb3e428415b9185d7c791a5d
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.39.2-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.39.2_amd64.deb
+Size: 18107608
+MD5sum: fdfebed2e389215aa3367639b0d44595
+SHA1: f1a53283a78b195dd8cdb6284155c2967b9f861a
+SHA256: 244cb01b537582434ea022e5d3007cf816305734cc0eb22fe090ca2b3fb463f4
+SHA512: 56a1a992ac5b91b2eb2026b75b17363e27f6e5cc7fa718ee24cd6d451912b725dbf921867c76df37d7062df23d4ef9feb425cae8afb60d0526cba1e16cf694df
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.39.3-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.39.3_amd64.deb
+Size: 18112212
+MD5sum: 3950522fa07a26482d5dd5976c79b165
+SHA1: 5a28720a6045eb0ba5b2052c98ff040abcc8ef9a
+SHA256: 8d82eb6099e901b5cca09e17dee5ac9b39261e21ca732f32240d26036f4bb326
+SHA512: 2439c4071fa24b779feac0f496064c7ff309473bb13521a82f7db4821c6469bd7067f6e1354d56b189788b7d2fcd07ea96f3d4f75423dd53fe0ad11a27403efe
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.39.4-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.39.4_amd64.deb
+Size: 18133356
+MD5sum: 1fc5e467a8b192fdce65466b8ab6bdf1
+SHA1: cdd22d54b0f68cadd10f093f8ecc9943f89ee4a2
+SHA256: 39ce68906182397de70f7bc6dd0e3d8720161195a433f6615a6dd03fd6f189c3
+SHA512: d5497769e19d7e3c79cd90cf487863e616900aa2f712b41d567989716dc36f2a5c0f614bd33b870ee5bb90610b7a5bc8b1281461a6aa2432e37f67b1d6145e10
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.39.5-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.39.5_amd64.deb
+Size: 18280364
+MD5sum: f4b24715f64f20167bdb663a4e81849c
+SHA1: f1dc33138cde25d9a702106f357edd41edf05925
+SHA256: 1a10f39540baccfa3441f19174a0ce5d93cee1876508ab02993f7d32c2c49d0e
+SHA512: 442b147b0e8206d1ec201838b6b64bd1ea92060c8def54eee0fcff85a7a561fdc14956fb857518b92185ef677db2d878810ad3cb0c93e198735dc9f59516928d
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.39.6-1
+Maintainer: Amir Zarrinkafsh <nightah at me dot com>
+Filename: pool/main/dists/stable/authelia_v4.39.6_amd64.deb
+Size: 18321072
+MD5sum: 7c50c0525167c21421f2a42964e92dc7
+SHA1: 22eacf22155efa579e61bc20a8c8ed0abceecfb1
+SHA256: 581c040770ae797d193b6413afafd6db856dd5533091c7a47c6b753914a83c62
+SHA512: 6ca2ccc29c503dc0cd714bd6d58832666ea456d601ca51ab3346d0ad7bb51df7e1ff29d3ed2bd10788b7ac196f27acc181fce21c8ae4434873403387e382449a
+Homepage: https://github.com/authelia/authelia
+Description: The Cloud ready multi-factor authentication portal for your Apps. Pre-compiled.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.39.7
+Priority: optional
+Maintainer: Authelia Team <team@authelia.com>
+Installed-Size: 56720
+Provides: authelia
+Filename: pool/main/dists/stable/authelia_v4.39.7_amd64.deb
+Size: 18806576
+MD5sum: eb195595289b93a8ce4f26af3e55c868
+SHA1: 40d154c820fddaa90c95c41428c46cac211983b6
+SHA256: 9b16db6e35a546197406216d764da4f9e404264851d262c607fd515ddb8017ec
+SHA512: b673619b2ed7377cfe29c6157069918db460b1c5864663262e9edfda82d46397e916c806735002a39665241ce8b52749ba94cd78777cc0b5faa49b7c8f3e4ccf
+Homepage: https://www.authelia.com
+Description: Authelia is an open-source authentication and authorization server and portal fulfilling the identity and access
+ management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO)
+ for your applications via a web portal. Authelia is an OpenID Connect 1.0 Provider which is OpenID Certified™
+ allowing comprehensive integrations and acts as a companion for common reverse proxies.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
+Version: 4.39.8
+Priority: optional
+Maintainer: Authelia Team <team@authelia.com>
+Installed-Size: 56692
+Provides: authelia
+Filename: pool/main/dists/stable/authelia_v4.39.8_amd64.deb
+Size: 18801340
+MD5sum: 52a534c46566cbb8b2e787f074e498c7
+SHA1: 5030f47160327c2664d5458b13f549ba145a243c
+SHA256: 450f09e7c8f34daa62c8d0b0c62248adee0a1b93a23009ae0949007af03724e2
+SHA512: bbde9496bcc67cbe036716841eefdff79e6af07754ba786874cbc791d9492991fc6bdb5703591ca7286f8f14b0add4ca189046ca6e7da84f0e57114a6d56515a
+Homepage: https://www.authelia.com
+Description: Authelia is an open-source authentication and authorization server and portal fulfilling the identity and access
+ management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO)
+ for your applications via a web portal. Authelia is an OpenID Connect 1.0 Provider which is OpenID Certified™
+ allowing comprehensive integrations and acts as a companion for common reverse proxies.
+License: Apache-2.0
+

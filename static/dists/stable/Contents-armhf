@@ -1,0 +1,7 @@
+etc/authelia/configuration.yml				    authelia
+usr/bin/authelia					    authelia
+usr/lib/systemd/system/authelia.service			    authelia
+usr/lib/systemd/system/authelia@.service		    authelia
+usr/lib/sysusers.d/authelia.conf			    authelia
+usr/lib/tmpfiles.d/authelia-config.conf			    authelia
+usr/lib/tmpfiles.d/authelia.conf			    authelia

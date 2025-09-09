@@ -1,4 +1,4 @@
-/ https://www.authelia.com 302
+/ https://www.authelia.com/l/apt 302
 /pool/main/dists/stable/authelia_v4.30.0_amd64.deb https://github.com/authelia/authelia/releases/download/v4.30.0/authelia_v4.30.0_amd64.deb 301
 /pool/main/dists/stable/authelia_v4.30.0_arm64.deb https://github.com/authelia/authelia/releases/download/v4.30.0/authelia_v4.30.0_arm64.deb 301
 /pool/main/dists/stable/authelia_v4.30.0_armhf.deb https://github.com/authelia/authelia/releases/download/v4.30.0/authelia_v4.30.0_armhf.deb 301

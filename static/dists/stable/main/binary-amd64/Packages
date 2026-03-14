@@ -126,6 +126,28 @@ License: Apache-2.0
 
 Package: authelia
 Architecture: amd64
+Architecture-Variant: amd64v1
+Version: 4.39.16-1
+Priority: extra
+Section: default
+Maintainer: Authelia Team <team@authelia.com>
+Installed-Size: 57728
+Provides: authelia
+Filename: pool/main/dists/stable/authelia_4.39.16-1_amd64.deb
+Size: 19209546
+MD5sum: 9174cfb3e57ea5b4ee4df262ee11f3e2
+SHA1: 9eb240edbfd9f70e2bcbe0a2e2db43fdda957ef3
+SHA256: c917d15372e126fb93125dc8ed15d8ec920897f0277cfe2e9affcca8af41e051
+SHA512: 3e6941519c5525610f0f969d660db83893d910fb4360e043d20c96f0fff1f7716e332ea01dfec0f48f074f12fd7c93d45de8202cf630899608534e0fe1dab021
+Homepage: https://www.authelia.com
+Description: Authelia is an open-source authentication and authorization server and portal fulfilling the identity and access
+ management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO)
+ for your applications via a web portal. Authelia is an OpenID Connect 1.0 Provider which is OpenID Certified™
+ allowing comprehensive integrations and acts as a companion for common reverse proxies.
+License: Apache-2.0
+
+Package: authelia
+Architecture: amd64
 Version: 4.39.9-1
 Priority: extra
 Section: default

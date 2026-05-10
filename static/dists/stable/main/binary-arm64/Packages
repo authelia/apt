@@ -1255,3 +1255,22 @@ Description: Authelia is an open-source authentication and authorization server 
  allowing comprehensive integrations and acts as a companion for common reverse proxies.
 License: Apache-2.0
 
+Package: pam_authelia
+Architecture: arm64
+Version: 0.1.0-1
+Priority: optional
+Section: admin
+Maintainer: Authelia Team <team@authelia.com>
+Installed-Size: 6101
+Provides: pam_authelia
+Filename: pool/main/dists/stable/pam_authelia_0.1.0-1_arm64.deb
+Size: 2590104
+MD5sum: 13bc512144bff33b8fec2b782c5ddc3f
+SHA1: ce5ffb1ad37da9887f353fec6c61f6453ba427bd
+SHA256: 2e03ac6028f56bca9526ce71f697d3cb24a4104488e105bf34931de00192bd41
+SHA512: 1c846bb4a2a8289036df0b3c51a7b0cf18831736b6528dbedc9d96905bf105d36913580d1892c27193bf85dd26e9ce609eb8625608cfbb7a44c5b790b982c94d
+Homepage: https://www.authelia.com
+Description: PAM module that delegates authentication (including 2FA) to an Authelia server.
+ Ships with the pam_authelia.so C shim and the pam_authelia Go helper invoked
+ over a stdin/stdout pipe protocol.
+

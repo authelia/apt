@@ -248,3 +248,6 @@
 /pool/main/dists/stable/authelia_4.39.19-1_amd64.deb https://github.com/authelia/authelia/releases/download/v4.39.19/authelia_4.39.19-1_amd64.deb 301
 /pool/main/dists/stable/authelia_4.39.19-1_arm64.deb https://github.com/authelia/authelia/releases/download/v4.39.19/authelia_4.39.19-1_arm64.deb 301
 /pool/main/dists/stable/authelia_4.39.19-1_armhf.deb https://github.com/authelia/authelia/releases/download/v4.39.19/authelia_4.39.19-1_armhf.deb 301
+/pool/main/dists/stable/pam_authelia_0.1.0-1_amd64.deb https://github.com/authelia/pam/releases/download/v0.1.0/pam_authelia_0.1.0-1_amd64.deb 301
+/pool/main/dists/stable/pam_authelia_0.1.0-1_arm64.deb https://github.com/authelia/pam/releases/download/v0.1.0/pam_authelia_0.1.0-1_arm64.deb 301
+/pool/main/dists/stable/pam_authelia_0.1.0-1_armhf.deb https://github.com/authelia/pam/releases/download/v0.1.0/pam_authelia_0.1.0-1_armhf.deb 301

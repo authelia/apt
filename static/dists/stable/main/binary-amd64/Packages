@@ -1274,3 +1274,23 @@ Description: PAM module that delegates authentication (including 2FA) to an Auth
  Ships with the pam_authelia.so C shim and the pam_authelia Go helper invoked
  over a stdin/stdout pipe protocol.
 
+Package: pam_authelia
+Architecture: amd64
+Architecture-Variant: amd64v1
+Version: 0.1.1-1
+Priority: optional
+Section: admin
+Maintainer: Authelia Team <team@authelia.com>
+Installed-Size: 6584
+Provides: pam_authelia
+Filename: pool/main/dists/stable/pam_authelia_0.1.1-1_amd64.deb
+Size: 2851234
+MD5sum: 8c4981f4b5a150d1f2f59248a172d739
+SHA1: d7958d14ecb85fcbbcddafe86077427a92e3592f
+SHA256: 9925f5ff5595eac07ee94489c871b2481b7b964c328cca066e0e4011304ac2b4
+SHA512: 8ad2fa42f0d16163aae41ab9eccc6030401436e119c1561c50dd0e3918a93dbe72f13529654c1631ccd177366c796738208124911543af540cbeb0521d1fd27f
+Homepage: https://www.authelia.com
+Description: PAM module that delegates authentication (including 2FA) to an Authelia server.
+ Ships with the pam_authelia.so C shim and the pam_authelia Go helper invoked
+ over a stdin/stdout pipe protocol.
+

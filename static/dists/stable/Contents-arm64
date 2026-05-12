@@ -2,6 +2,7 @@ etc/authelia/configuration.yml				    authelia,default/authelia
 lib/security/pam_authelia.so				    admin/pam_authelia
 usr/bin/authelia					    authelia,default/authelia
 usr/bin/pam_authelia					    admin/pam_authelia
+usr/lib/aarch64-linux-gnu/security/pam_authelia.so	    admin/pam_authelia
 usr/lib/systemd/system/authelia.service			    authelia,default/authelia
 usr/lib/systemd/system/authelia@.service		    authelia,default/authelia
 usr/lib/sysusers.d/authelia.conf			    authelia,default/authelia

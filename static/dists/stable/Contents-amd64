@@ -7,3 +7,4 @@ usr/lib/systemd/system/authelia@.service		    authelia,default/authelia
 usr/lib/sysusers.d/authelia.conf			    authelia,default/authelia
 usr/lib/tmpfiles.d/authelia-config.conf			    authelia,default/authelia
 usr/lib/tmpfiles.d/authelia.conf			    authelia,default/authelia
+usr/lib/x86_64-linux-gnu/security/pam_authelia.so	    admin/pam_authelia

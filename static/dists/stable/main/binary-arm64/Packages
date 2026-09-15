@@ -347,6 +347,26 @@ Description: Authelia is an open-source authentication and authorization server 
 
 Package: authelia
 Architecture: arm64
+Version: 4.39.27-1
+Priority: extra
+Section: default
+Maintainer: Authelia Team <team@authelia.com>
+Installed-Size: 58668
+Provides: authelia
+Filename: pool/main/dists/stable/authelia_4.39.27-1_arm64.deb
+Size: 19435574
+MD5sum: c0146d45947eaf422b96f63e4df64d5e
+SHA1: 4a8c2ca3716e61ecb7e09b5c6e6087c095e5f064
+SHA256: dd7903e981f4a848dccc22b71720e78b118ae99114909ed2e7782dc7f3025b89
+SHA512: 123d7ec838aa970a93bfe1e841217f79e5375cad8b0dcf3486e99ca1cbaac687ce29e5e007e361d91f06c8c374cd615e84aa15287cedc58eb6e7d39414aaa5c6
+Homepage: https://www.authelia.com
+Description: Authelia is an open-source authentication and authorization server and portal fulfilling the identity and access
+ management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO)
+ for your applications via a web portal. Authelia is an OpenID Connect 1.0 Provider which is OpenID Certified™
+ allowing comprehensive integrations and acts as a companion for common reverse proxies.
+
+Package: authelia
+Architecture: arm64
 Version: 4.39.9-1
 Priority: extra
 Section: default
